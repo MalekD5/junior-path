@@ -1,0 +1,106 @@
+# Unity generated folders (for all projects)
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Mm]emoryCaptures/
+
+# Asset meta data should not be ignored
+# *.asset
+
+# Visual Studio / MonoDevelop generated files (for all projects)
+**/*.csproj
+**/*.unityproj
+**/*.sln
+**/*.suo
+**/*.tmp
+**/*.user
+**/*.userprefs
+**/*.pidb
+**/*.booproj
+**/*.svd
+**/*.pdb
+**/*.mdb
+**/*.opendb
+**/*.VC.db
+
+# Rider project files (for all projects)
+**/.idea/
+**/*.sln.iml
+
+# Unity Cache Server (for all projects)
+**/[Ll]ibrary/ShaderCache/
+
+# Unity build artifacts (for all projects)
+**/*.apk
+**/*.aab
+**/*.xcodeproj
+**/*.xcworkspace
+**/*.xcuserdata/
+**/*.xcshareddata/
+**/*.lock
+**/*.lock.meta
+**/*.lock.json
+
+# Asset Bundles (for all projects)
+**/*.manifest
+**/*.resource
+
+# Crash reports (for all projects)
+**/*.stacktrace
+
+# Packed Assets (for all projects)
+**/*.unitypackage
+
+# Collaborate-generated files (for all projects)
+**/.collab/
+
+# Ignore Git-based packages (for all projects)
+**/Packages/com.unity.*
+
+# Ignore local project settings (for all projects)
+**/ProjectSettings/EditorBuildSettings.asset
+**/ProjectSettings/EditorSettings.asset
+**/ProjectSettings/GraphicsSettings.asset
+**/ProjectSettings/InputManager.asset
+**/ProjectSettings/NavMeshAreas.asset
+**/ProjectSettings/ProjectSettings.asset
+**/ProjectSettings/QualitySettings.asset
+**/ProjectSettings/TagManager.asset
+**/ProjectSettings/DynamicsManager.asset
+**/ProjectSettings/Physics2DSettings.asset
+**/ProjectSettings/TimeManager.asset
+**/ProjectSettings/AudioManager.asset
+**/ProjectSettings/ClusterInputManager.asset
+**/ProjectSettings/CloudBuildSettings.asset
+
+# OS-specific files (macOS)
+**/.DS_Store
+**/.AppleDouble
+**/.LSOverride
+
+# Thumbnails
+**/._*
+
+# Windows image file caches
+**/Thumbs.db
+**/ehthumbs.db
+
+# Folder config file
+**/Desktop.ini
+
+# Recycle Bin used on file shares
+**/$RECYCLE.BIN/
+
+# Windows shortcuts
+**/*.lnk
+
+# JetBrains Rider (for all projects)
+**/.idea/
+**/*.sln.iml
+
+# Packages (for all projects)
+**/Packages/manifest.json.meta
+**/Packages/packages-lock.json
