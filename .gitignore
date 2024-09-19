@@ -104,3 +104,7 @@
 # Packages (for all projects)
 **/Packages/manifest.json.meta
 **/Packages/packages-lock.json
+
+# HTML files (for some reason)
+**/*.htm
+**/*.html
